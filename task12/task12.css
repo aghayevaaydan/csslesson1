@@ -1,0 +1,11 @@
+#box1{
+    width: 400px;
+    height: 150px;
+    border: 10px solid green;
+}
+#box2{
+    border-top:20px;
+    width: 450px;
+    height: 180px;
+    border: 10px solid yellow;
+}
